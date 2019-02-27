@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ContactCard</string>
+    <string name="i_m_robert_smith">I\'m <b>Miguel Najera</b></string>
+    <string name="developer_and_startup_entrepeneur">Backend Developer</string>
+    <string name="age"><b>Age</b></string>
+    <string name="_29">31</string>
+    <string name="address"><b>Address</b></string>
+    <string name="_24058_belgium_brussels_liutte_27_be">5342 N. California Ave</string>
+    <string name="e_mail"><b>E-Mail</b></string>
+    <string name="robersmith_company_com">migueln1987@gmail.com</string>
+    <string name="phone"><b>Phone</b></string>
+    <string name="_1_256_254_84_56">312-802-3342</string>
+    <string name="freelance"><b>Freelance</b></string>
+    <string name="till_march_25_2016">till March 25, 2016</string>
+</resources>
